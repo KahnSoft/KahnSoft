@@ -12,6 +12,7 @@ Interests: Simulation, Embedded Systems, Open Source
 - OpenGL
 - Lua scripting
 - Simulation & visualization
+- massive c/c++/asm
 
 ## Contact
 For questions or suggestions: [Open an issue](https://github.com/KahnSoft/FlexxRail/issues) or join the Discussions!
