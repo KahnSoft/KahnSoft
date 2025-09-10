@@ -11,8 +11,9 @@ Interests: Simulation, Embedded Systems, Open Source
 ## Technologies
 - OpenGL
 - Lua scripting
+- Industrial Vision Systems (https://www.FlexxVision.de)
 - Simulation & visualization
-- massive c/c++/asm
+- Massive c/c++/asm
 
 ## Contact
 For questions or suggestions: [Open an issue](https://github.com/KahnSoft/FlexxRail/issues) or join the Discussions!
