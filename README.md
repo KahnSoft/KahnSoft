@@ -1,21 +1,21 @@
-#  Willkommen bei KahnSoft
+# 👋 Welcome to KahnSoft
 
-Ich arbeite an FlexxRail – einer 3D-Simulation für Eisenbahnsysteme mit Lua-Scripting und OpenGL.  
-Schau dir mein Projekt an: [FlexxRail](https://github.com/KahnSoft/FlexxRail)
+I'm working on **FlexxRail** – a 3D simulation platform for railway systems using Lua scripting and OpenGL.  
+📦 Check out the project: [FlexxRail](https://github.com/KahnSoft/FlexxRail)
 
-Du hast Ideen oder Fragen? Dann beteilige dich an der Diskussion:  
-[Rail Road based Ideas – GitHub Discussions](https://github.com/KahnSoft/FlexxRail/discussions)
+💬 Got ideas or questions? Join the discussion:  
+👉 [Rail Road based Ideas – GitHub Discussions](https://github.com/KahnSoft/FlexxRail/discussions)
 
-Interessen: Simulation, Embedded Systems, Open Source
+💡 Interests: Simulation, Embedded Systems, Open Source
 
-## 🔧 Technologien
+## 🔧 Technologies
 - 🖥️ OpenGL
--  Lua-Scripting
--  Simulation & Visualisierung
+- 🧠 Lua scripting
+- 🚉 Simulation & visualization
 
-##  Kontakt
-Bei Fragen oder Ideen: [Issues öffnen](https://github.com/KahnSoft/FlexxRail/issues) oder direkt über Discussions!
+## 📫 Contact
+For questions or suggestions: [Open an issue](https://github.com/KahnSoft/FlexxRail/issues) or join the Discussions!
 
-##  Aktuell in Arbeit
-- Erweiterung des Streckennetzes
-- Integration von Echtzeitdaten
+## 🚧 Currently in development
+- Expansion of the track network
+- Integration of real-time data
