@@ -22,9 +22,9 @@ For questions or suggestions: [Open an issue](https://github.com/KahnSoft/FlexxR
 - Expansion of the track network
 - Integration of real-time data
 
-##Sumarum
+## Sumarum
 
-🚀 Multi-Domain Vision & Engineering Systems Architecture
+Multi-Domain Vision & Engineering Systems Architecture
 33 Years of Industrial Software Engineering Excellence (1992-2025)
 ---
 Overview
